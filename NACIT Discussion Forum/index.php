@@ -110,8 +110,8 @@ The various questions are like how to setup the languages, datatypes etc.
                                     <div class="art-BlockContent-cr"></div>
                                     <div class="art-BlockContent-cc"></div>
                                     <div class="art-BlockContent-body">
-                                        <div><form action="" method="get" id="newsletterform" action="javascript:void(0)">
-                                        <input type="text" value="" name="email" id="s" style="width: 95%;" />
+                                        <div>
+                                          <input type="text" value="" name="email" id="s" style="width: 95%;" />
                                         <span class="art-button-wrapper">
                                         	<span class="l"> </span>
                                         	<span class="r"> </span>
