@@ -69,9 +69,7 @@
                                 
                                     
                                    
-                                  <p align="justify">Our site can help the new comers about getting information about programming languages.It will also be useful for getting information about various technical questions.Users can satisfy their needs of getting information related to various programming languages from a single source.To make a form that give information about various technical questions .
-The questions are based on various programming languages.
-The various questions are like how to setup the languages, datatypes etc.
+                                  <p align="justify">If you are interested in joining, please click on the button below.
 </p>
                                   
                                                                      
@@ -97,7 +95,7 @@ The various questions are like how to setup the languages, datatypes etc.
                                     <div class="l"></div>
                                     <div class="r"></div>
                                     <div class="art-header-tag-icon">
-                                        <div class="t">Newsletter</div>
+                                        <div class="t">Feel Free to explore</div>
                                     </div>
                                 </div><div class="art-BlockContent">
                                     <div class="art-BlockContent-tl"></div>
@@ -110,13 +108,9 @@ The various questions are like how to setup the languages, datatypes etc.
                                     <div class="art-BlockContent-cr"></div>
                                     <div class="art-BlockContent-cc"></div>
                                     <div class="art-BlockContent-body">
-                                        <div>
-                                          <input type="text" value="" name="email" id="s" style="width: 95%;" />
-                                        <span class="art-button-wrapper">
-                                        	<span class="l"> </span>
-                                        	<span class="r"> </span>
-                                        	<input class="art-button" type="submit" name="search" value="Subscribe"/>
-                                        </span>
+                                        <div><span class="art-button-wrapper">
+                                       	  <span class="l"> </span>
+                                   	    <span class="r"> </span></span>
                                         </form></div>
                                     </div>
                                 </div>
