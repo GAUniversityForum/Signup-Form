@@ -1,4 +1,4 @@
-<?php require_once("utility.php"); 
+8<?php require_once("utility.php"); 
 ob_start(); 
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -46,17 +46,15 @@ ob_start();
                 	<div class="r"></div>
                 	<ul class="art-menu">
                 		<li><a href="uhome.php" id="auhome"><span class="l"></span><span class="r"></span><span class="t">Home</span></a></li>
-                		<li><a href="aboutus.php" id="aaboutus"><span class="l"></span><span class="r"></span><span class="t">About</span></a>
+                		<li><a href="#" id="aaboutus"><span class="l"></span><span class="r"></span><span class="t">Admin</span></a>
                 			
                 		</li>
                 		
-                		<li><a href="forum.php" id="aforum"><span class="l" ></span><span class="r"></span><span class="t">Forum</span></a>
+                		<li><a href="#" id="aforum"><span class="l" ></span><span class="r"></span><span class="t">Forum</span></a>
                 			
-                		<li><a href="contact.php" id="acontact"><span class="l"></span><span class="r"></span><span class="t">Contact</span></a></li>
+                		<li><a href="#" id="acontact"><span class="l"></span><span class="r"></span><span class="t">Department</span></a></li>
                         
                         
-<li><a href="messages.php" id="amessage"><span class="l"></span><span class="r"></span><span class="t">Message</span></a></li>
-
 </ul>
                 </div>
                <div class="art-contentLayout">
