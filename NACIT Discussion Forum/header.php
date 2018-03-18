@@ -37,8 +37,8 @@ ob_start();
                 <div class="art-Header">
                     <div class="art-Header-jpeg"></div>
                     <div class="art-Logo">
-                        <h1 id="name-text" class="art-Logo-name"><a href="#">NACIT Discussion Forum</a></h1>
-                        <div id="slogan-text" class="art-Logo-text">Know More</div>
+                        <h1 id="name-text" class="art-Logo-name"><a href="#">NACIT DISCUSSION FORUM</a></h1>
+                        <div id="slogan-text" class="art-Logo-text">Bring Your Ideas</div>
                     </div>
                 </div>
                 <div class="art-nav">
@@ -50,7 +50,7 @@ ob_start();
                 			
                 		</li>
                 		
-                		<li><a href="#" id="aforum"><span class="l" ></span><span class="r"></span><span class="t">Forum</span></a>
+                		<li><a href="forum.php" id="aforum"><span class="l" ></span><span class="r"></span><span class="t">Forum</span></a>
                 			
                 		<li><a href="#" id="acontact"><span class="l"></span><span class="r"></span><span class="t">Department</span></a></li>
                         
