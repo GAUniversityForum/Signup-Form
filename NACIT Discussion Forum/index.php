@@ -167,7 +167,15 @@
 <table>
 <tr><td>User Id:</td></tr><tr><td><input type="text" name="uid"><span id='spuid' style="color: red;"></span></td></tr>
 <tr><td>Password:</td></tr><tr><td><input type="password" name="pwd"><span id='spuid' style="color: red;"></span></td></tr>
+
+
+
 <tr><td><input type="submit" value="login"><input type="reset" value="cancel"></td></tr>
+<select>
+  <option value="student">Student</option>
+  <option value="manager">QA Manager</option>
+  <option value="coordinator">QA Coordinator</option>
+</select> 
 <tr><td><a href="register.php"><input type="button" value="Sign Up"></a></td></tr>
 </table>
 
